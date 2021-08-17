@@ -1,4 +1,4 @@
-package com.ypb.strategy;
+package com.ypb.Strategy;
 
 /**
  * @author ypb
